@@ -1,0 +1,109 @@
+[
+  {
+    "id": "beans",
+    "name": "Dry Beans & Legumes",
+    "slug": "beans",
+    "shortDesc": "Over 85 varieties of conventional, heirloom, and organic edible dry beans, lentils, and peas.",
+    "bannerImage": "/assets/images/banners/beans-banner.jpeg",
+    "count": 105,
+    "highlights": [
+      "Adzuki",
+      "Black Turtle",
+      "Garbanzo",
+      "Peruano / Mayo Coba",
+      "Pinto",
+      "Red Kidney",
+      "Lentils",
+      "Navy",
+      "Great Northern"
+    ]
+  },
+  {
+    "id": "rice",
+    "name": "Rice & Specialty Rices",
+    "slug": "rice",
+    "shortDesc": "Premium long, medium, and short grain varieties, aromatics, and custom multigrain blends.",
+    "bannerImage": "/assets/images/banners/rice-banner.jpeg",
+    "count": 34,
+    "highlights": [
+      "Basmati",
+      "Jasmine",
+      "Calrose",
+      "Arborio",
+      "Brown Rice",
+      "Sweet Mochi",
+      "American Blends",
+      "Wild Rice"
+    ]
+  },
+  {
+    "id": "grains",
+    "name": "Ancient & Whole Grains",
+    "slug": "grains",
+    "shortDesc": "Nutrient-dense ancient grains, pearled grains, whole berries, and specialty milling grains.",
+    "bannerImage": "/assets/images/banners/grains-banner.jpeg",
+    "count": 26,
+    "highlights": [
+      "Quinoa (White/Red/Black/Tri-Color)",
+      "Buckwheat",
+      "Amaranth",
+      "Millet",
+      "Barley",
+      "Couscous",
+      "Bulgur",
+      "Farro"
+    ]
+  },
+  {
+    "id": "seeds",
+    "name": "Sprouting Seeds & Superfoods",
+    "slug": "seeds",
+    "shortDesc": "Certified organic sprouting seeds, superfood seeds, and baking seed selections.",
+    "bannerImage": "/assets/images/banners/seeds-banner.jpeg",
+    "count": 15,
+    "highlights": [
+      "Black Chia",
+      "White Chia",
+      "Alfalfa Sprouting",
+      "Broccoli Sprouting",
+      "Golden Flax",
+      "Brown Flax",
+      "Sunflower",
+      "Sesame"
+    ]
+  },
+  {
+    "id": "nuts",
+    "name": "Nuts & Nut Butters",
+    "slug": "nuts",
+    "shortDesc": "California Central Valley grown nuts, roasted kernels, and custom nut/seed butter processing.",
+    "bannerImage": "/assets/images/banners/nuts-banner.jpeg",
+    "count": 6,
+    "highlights": [
+      "California Almonds",
+      "Walnuts",
+      "Pecans",
+      "Cashews",
+      "Peanuts",
+      "Almond Butter",
+      "Peanut Butter"
+    ]
+  },
+  {
+    "id": "spices",
+    "name": "Spices, Chilies & Seasonings",
+    "slug": "spices",
+    "shortDesc": "Over 160 whole and ground spices, 20 chili varieties, and custom savory blending formulations.",
+    "bannerImage": "/assets/images/banners/spices-banner.jpeg",
+    "count": 9,
+    "highlights": [
+      "Allspice",
+      "Spanish Paprika",
+      "Black Peppercorns",
+      "Cinnamon",
+      "Turmeric",
+      "Savory Bean Rubs",
+      "Whole Chilies"
+    ]
+  }
+]
